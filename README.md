@@ -1,5 +1,5 @@
 # A Simple Bash Code to Encode and Decode
-This tool uses pre build linux encypting tools to decode and encode the contentes of a file 
+This tool uses pre build linux encrypting tools to decode and encode the contentes of a file 
 -e to encode
 -d to decode
 Syntax:
