@@ -1,0 +1,7 @@
+# A Simple Bash Code to Encode and Decode
+This tool uses pre build linux encypting tools to decode and encode the contentes of a file 
+-e to encode
+-d to decode
+Syntax:
+  ./tool.sh -e <filename> #to encode the contents of <filename>
+  ./tool.sh -d <filename> #to decode the contents of <filename>
